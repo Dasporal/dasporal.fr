@@ -27,22 +27,22 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: Dasporal
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: dasporal
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: amine-rahmane
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: dasporal
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: dasporal
 
 topics:
   - name: CSS
