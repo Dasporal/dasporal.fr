@@ -45,12 +45,92 @@ social_media:
   youtube: dasporal
 
 topics:
+
+  - name: '-'
+  - name: Web development
+  - name: '-'
+
+  - name: HTML
+    web_url: https://github.com/topics/html
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/HTML5.png
+
   - name: CSS
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/css3.png
 
-  - name: Web design
+  - name: Typescript
+    web_url: https://github.com/topics/typescript
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/typescript.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Angular
+    web_url: https://github.com/topics/angular
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/angular.png
+
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/php.png
+
+  - name:
+
+  - name: '-'
+  - name: Database
+  - name: '-'
+
+  - name: Oracle
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/php.png
+
+  - name: MySQL
+    web_url: https://github.com/topics/mysql
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/mysql.png
+
+  - name: PostgreSQL
+    web_url: https://github.com/topics/postgresql
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/postgresql.png
+
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/firebase.png
+
+  - name:
+  - name:
+
+  - name: '-'
+  - name: Software and mobile development
+  - name: '-'
+
+  - name: C#
+    web_url: https://github.com/topics/c-sharp
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/sharp.png
+
+  - name: Electron
+    web_url: https://github.com/topics/electron
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/electron.png
+
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/android.png
+
+  - name: Ionic
+    web_url: https://github.com/topics/ionic
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/ionic.png
+
+  - name:
+  - name:
+ 
+  - name: '-'
+  - name: Scripting
+  - name: '-'
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/python.png
+  
+  - name: Ruby
+    web_url: https://github.com/topics/ruby
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/ruby.png
+  
+  - name: Lua
+    web_url: https://github.com/topics/lua
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/lua.png
+ 
