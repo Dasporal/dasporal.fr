@@ -6,11 +6,14 @@
 
 <img src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 150px;">
 <h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1>
-<p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-  "{{ user.bio }}" - <i>Amine, probably</i>
+<p class="text-justify mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
+  "{{ user.bio }}" - <i>Myself, probably</i>
 </p>
-<p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
- heh hey hey
+<p class="text-justify mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
+ Now 21, I've always liked playing with electronics and anything related to IT, especially learning new languages and I thrive to continue to do so! I've got
+ an affinity with PWA but I welcome all kinds of challenges and ideas to develop.
+ 
+ <br>Currently employed.
 </p>
 {% if include.metadata %}
   <div class="f4 mb-6">

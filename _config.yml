@@ -23,9 +23,11 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+      - Dasporal.github.io
+      - GraphicPenisGenerator
+      - logo-i-use
 
 social_media:
   # behance: your_username
@@ -101,7 +103,7 @@ topics:
 
   - name: C#
     web_url: https://github.com/topics/c-sharp
-    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/sharp.png
+    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/csharp.png
 
   - name: Electron
     web_url: https://github.com/topics/electron
@@ -117,20 +119,4 @@ topics:
 
   - name:
   - name:
- 
-  - name: '-'
-  - name: Scripting
-  - name: '-'
-
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/python.png
-  
-  - name: Ruby
-    web_url: https://github.com/topics/ruby
-    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/ruby.png
-  
-  - name: Lua
-    web_url: https://github.com/topics/lua
-    image_url: https://raw.githubusercontent.com/Dasporal/logo-i-use/master/lua.png
  
