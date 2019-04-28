@@ -11,6 +11,12 @@
       </div>
     {% endif %}
     <p class="f3 lh-condensed text-center link-gray-dark mb-0 mt-1">{{ topic.name }}</p>
+    {% if topic.location %}
+      <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.location }}</p>
+    {% endif %}
+    {% if topic.date %}
+      <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.date }}</p>
+    {% endif %}
     {% if topic.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.description }}</p>
     {% endif %}
@@ -28,6 +34,9 @@
       </div>
     {% endif %}
     <p class="f3 lh-condensed text-center mb-0 mt-1">{{ topic.name }}</p>
+    {% if topic.date %}
+      <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.date }}</p>
+    {% endif %}
     {% if topic.description %}
       <p class="f5 text-gray text-center mb-0 mt-1">{{ topic.description }}</p>
     {% endif %}

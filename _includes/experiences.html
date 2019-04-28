@@ -1,0 +1,17 @@
+<h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Experiences</h2>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">My previous studies and work experiences.</p>
+<div class="d-flex flex-wrap gutter-condensed mb-2">
+  {% if page.url == "/" %} 
+    {% for topic in site.experiences %} 
+    <div class="col-12 col-md-12 col-lg-12 col-xl-12 mb-12">
+      {% include topic-card.html %}
+    </div>
+  {% endfor %}
+  {% else %}
+    {% for topic in site.experiences %} 
+      <div class="col-12 col-md-12 col-lg-12 col-xl-12 mb-12">
+        {% include topic-card.html %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>
