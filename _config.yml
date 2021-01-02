@@ -1,5 +1,6 @@
 layout: sidebar
 style: light
+repository: Dasporal/dasporal.fr
 
 plugins:
   - jekyll-octicons
@@ -144,28 +145,33 @@ topics:
   - name:
 
 experiences:
+  - name: Short-Edition
+    location: Grenoble [FRANCE]
+    date: August 2020 - Current
+    description: /
+
   - name: Synexie - Institut G4
-    location: Toulon - Marseille
-    date: June 2017 - Current
-    description: Currently pursuing an apprenticeship working at Synexie while I'm studying at the G4 Institute, hoping to become a good project manager and an excellent developer.
+    location: Toulon - Marseille [FRANCE]
+    date: June 2017 - August 2020
+    description: Pursued an apprenticeship working at Synexie while I'm studying at the G4 Institute, hoping and succeeding in becoming a good project manager and an excellent developer.
 
   - name: "Brevet de technicien supérieur - Services Informatiques aux Organisations option Solutions Logicielles et Applications Métier"
-    location: Toulon
+    location: Toulon [FRANCE]
     date: June 2017
     description: Obtained my 2 years-long IT degree before pursuing my studies to become both an accomplished developer and a manager. 
 
   - name: Synexie
-    location: Toulon
+    location: Toulon [FRANCE]
     date: January 2017 - February 2017
     description: 6 weeks long work placement in the IT development team at Synexie where I migrated and redesigned the website of the Bacchus event in Toulon.
 
   - name: C.H.I.T.S
-    location: Toulon
+    location: Toulon [FRANCE]
     date: May 2016 - June 2016
     description: 6 weeks long work placement in the IT development team at the C.H.I.T.S allowed me to learn many things among how to prepare a project, how to present it to the clients and how to justify certain choices that I had made.
 
   - name: Baccalauréat
-    location: Toulon
+    location: Toulon [FRANCE]
     date: June 2015
     description: Obtained the Baccalauréat (French secondary school diploma/high-school degree).
   
